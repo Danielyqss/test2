@@ -1,0 +1,2 @@
+return point
+print(point)
